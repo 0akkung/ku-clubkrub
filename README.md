@@ -1,6 +1,6 @@
 # KU Clubkrub
 
-Web Application for finding various clubs in Kasetsart University
+Web Application for finding various clubs in Kasetsart University.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -10,13 +10,11 @@ You will need [Node.js](https://nodejs.org) version 14.0.3 or greater installed 
 
 ## Setup
 
-Get the code by either cloning this repository using git
+Get the code by cloning this repository using git
 
 ```sh
 git clone https://github.com/0akkung/ku-clubkrub.git
 ```
-
-... or [downloading source code](https://github.com/sanity-io/example-frontend-next-js/archive/master.zip) code as a zip archive.
 
 Once downloaded, open the terminal in the project directory, and install dependencies with:
 
