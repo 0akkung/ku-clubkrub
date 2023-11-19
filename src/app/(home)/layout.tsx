@@ -7,7 +7,7 @@ export default function HomeLayout({ children }: { children: React.ReactNode }) 
             {/* Sticky Navbar */}
             <Navbar />
             {/* Content */}
-            <main className="flex-1 p-6 bg-secondary md:p-12">{children}</main>
+            <main className="flex-1 p-6 bg-secondary md:p-12 md:px-28">{children}</main>
             {/* Footer */}
             {/*<Footer />*/}
         </div>
