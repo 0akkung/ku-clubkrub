@@ -1,5 +1,7 @@
 export type Club = {
-    id: string;
+    id: number;
+    title: string;
+    category: string;
     branch: string;
     date: string;
     phone: string;
