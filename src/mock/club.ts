@@ -3,13 +3,13 @@ import {Club} from "@/lib/definitions";
 export const mockClub : Club[] = [
     {
         id: 1,
-        title: "KU Startup",
+        title: "KU Danceclub",
         branch: "บางเขน",
         category: "หมวดวิชาการและกิจกรรม",
         date: "12/12/2570",
         phone: "081-234-5678",
-        facebook: "ku_startup",
-        instagram: "ku_startup",
+        facebook: "ku_danceclub",
+        instagram: "ku_danceclub",
         member: 20
     },
     {
@@ -21,6 +21,6 @@ export const mockClub : Club[] = [
         phone: "081-234-5678",
         facebook: "ku_startup",
         instagram: "ku_startup",
-        member: 20
+        member: 30
     }
 ];
